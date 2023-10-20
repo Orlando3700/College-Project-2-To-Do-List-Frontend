@@ -1,2 +1,1 @@
-# Project-2
-Hosts code for project 02
+https://orlando3700.github.io/Project-2/project02/toDoList.html
